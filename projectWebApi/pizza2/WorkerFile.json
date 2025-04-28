@@ -1,0 +1,16 @@
+[
+    {
+        "name": "rami",
+        "Role": "Admin",
+        "password": "741",
+        "age": 30,
+        "id": 17467
+    },
+    {
+        "name": "miri",
+        "Role": "Worker",
+        "password": "753",
+        "age": 25,
+        "id": 1
+    }
+]

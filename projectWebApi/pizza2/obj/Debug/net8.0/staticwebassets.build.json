@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "xoqT1XW8P2tzSLjUtg5VSC2REGeG26IsQ0lhVZo73uY=",
+  "Source": "pizza2",
+  "BasePath": "_content/pizza2",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "pizza2\\wwwroot",
+      "Source": "pizza2",
+      "ContentRoot": "H:\\webAPI\\webApi-project\\webApi-project\\projectWebApi\\pizza2\\wwwroot\\",
+      "BasePath": "_content/pizza2",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "H:\\webAPI\\webApi-project\\webApi-project\\projectWebApi\\pizza2\\wwwroot\\index.html",
+      "SourceId": "pizza2",
+      "SourceType": "Discovered",
+      "ContentRoot": "H:\\webAPI\\webApi-project\\webApi-project\\projectWebApi\\pizza2\\wwwroot\\",
+      "BasePath": "_content/pizza2",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "H:\\webAPI\\webApi-project\\webApi-project\\projectWebApi\\pizza2\\wwwroot\\js\\pizza.js",
+      "SourceId": "pizza2",
+      "SourceType": "Discovered",
+      "ContentRoot": "H:\\webAPI\\webApi-project\\webApi-project\\projectWebApi\\pizza2\\wwwroot\\",
+      "BasePath": "_content/pizza2",
+      "RelativePath": "js/pizza.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\pizza.js"
+    }
+  ]
+}

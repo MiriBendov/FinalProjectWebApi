@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "H:\\webAPI\\webApi-project\\webApi-project\\projectWebApi\\pizza2\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "H:\\webAPI\\webApi-project\\webApi-project\\projectWebApi\\pizza2\\wwwroot\\js\\pizza.js",
+      "PackagePath": "staticwebassets\\js\\pizza.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.pizza2.props",
+      "PackagePath": "build\\pizza2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.pizza2.props",
+      "PackagePath": "buildMultiTargeting\\pizza2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.pizza2.props",
+      "PackagePath": "buildTransitive\\pizza2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.pizza2.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
