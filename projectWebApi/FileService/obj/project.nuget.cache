@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hy3MOJxWe7DhuV/c6JJ9+mWtN85et//XzIE8NjRh1tSYTFZhbHJ4DQ8kSOGKZilK5I6Zip2JFPnp+btE/WknOQ==",
+  "success": true,
+  "projectFilePath": "H:\\webAPI\\webApi-project\\webApi-project\\projectWebApi\\FileService\\FileService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\בן דב מרים\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
